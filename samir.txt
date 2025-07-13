@@ -1,0 +1,3 @@
+#Symfony
+symfony -v
+symfony new --webapp my_project
