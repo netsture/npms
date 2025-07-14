@@ -1,0 +1,16 @@
+a4117d,127.0.0.1,GET,http://127.0.0.1:8000/_fragment?_path=_locale%3Den%26_format%3Dhtml%26_controller%3DSymfony%255CBundle%255CFrameworkBundle%255CController%255CTemplateController%253A%253AtemplateAction,1752266083,832ed7,200
+832ed7,127.0.0.1,GET,http://127.0.0.1:8000/en/login,1752266083,,200
+bffe63,127.0.0.1,POST,http://127.0.0.1:8000/en/login,1752266093,,302
+359b8d,127.0.0.1,GET,http://127.0.0.1:8000/_fragment?_path=_locale%3Den%26_format%3Dhtml%26_controller%3DSymfony%255CBundle%255CFrameworkBundle%255CController%255CTemplateController%253A%253AtemplateAction,1752266094,b06f73,200
+b06f73,127.0.0.1,GET,http://127.0.0.1:8000/en/login,1752266094,,200
+ef9195,127.0.0.1,POST,http://127.0.0.1:8000/en/login,1752266132,,302
+52564f,127.0.0.1,GET,http://127.0.0.1:8000/_fragment?_path=_locale%3Den%26_format%3Dhtml%26_controller%3DSymfony%255CBundle%255CFrameworkBundle%255CController%255CTemplateController%253A%253AtemplateAction,1752266133,000eb1,200
+000eb1,127.0.0.1,GET,http://127.0.0.1:8000/en/login,1752266133,,200
+19344a,127.0.0.1,GET,http://127.0.0.1:8000/_fragment?_path=_locale%3Den%26_format%3Dhtml%26_controller%3DSymfony%255CBundle%255CFrameworkBundle%255CController%255CTemplateController%253A%253AtemplateAction,1752266215,56a99f,200
+56a99f,127.0.0.1,GET,http://127.0.0.1:8000/en/login,1752266215,,200
+fa2e66,127.0.0.1,GET,http://127.0.0.1:8000/en/login,1752266232,5e499b,500
+5e499b,127.0.0.1,POST,http://127.0.0.1:8000/en/login,1752266232,,500
+4e40fc,127.0.0.1,GET,http://127.0.0.1:8000/_fragment?_path=_locale%3Den%26_format%3Dhtml%26_controller%3DSymfony%255CBundle%255CFrameworkBundle%255CController%255CTemplateController%253A%253AtemplateAction,1752266253,647003,200
+647003,127.0.0.1,GET,http://127.0.0.1:8000/en/login,1752266253,,200
+61d62b,127.0.0.1,GET,http://127.0.0.1:8000/en/login,1752266262,3b4d00,500
+3b4d00,127.0.0.1,POST,http://127.0.0.1:8000/en/login,1752266262,,500

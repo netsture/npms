@@ -1,0 +1,24 @@
+{# templates/lucky/number.html.twig #}
+<title>{% block SSSS %}SSSSSSSSSSS{% endblock %}</title>
+
+<h1>{{ block('SSSS') }}</h1>
+
+{% block body %}{% endblock %}
+<h1>Your lucky number is {{ number }}</h1>
+{{ title|upper }}
+{% apply upper %}
+    This text becomes uppercase
+{% endapply %}
+
+{% autoescape %}
+    Everything will be automatically escaped in this block
+    using the HTML strategy
+{% endautoescape %}
+
+
+
+
+{% autoescape 'html' %}
+    Everything will be automatically escaped in this block
+    using the HTML strategy
+{% endautoescape %}
