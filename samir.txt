@@ -8,3 +8,5 @@ git add umesh.txt
 git commit -m "Initial Setup"
 
 git push origin main
+
+git clone https://github.com/netsture/npms.git
