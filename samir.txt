@@ -2,11 +2,8 @@
 symfony -v
 symfony new --webapp my_project.
 
-
-git add umesh.txt
+git clone https://github.com/netsture/npms.git
 
 git commit -m "Initial Setup"
-
 git push origin main
 
-git clone https://github.com/netsture/npms.git
