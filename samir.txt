@@ -1,3 +1,10 @@
 #Symfony
 symfony -v
-symfony new --webapp my_project
+symfony new --webapp my_project.
+
+
+git add umesh.txt
+
+git commit -m "Initial Setup"
+
+git push origin main
