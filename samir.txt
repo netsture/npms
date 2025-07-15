@@ -1,6 +1,8 @@
 #Symfony
 symfony -v
 symfony new --webapp my_project.
+.env
+DATABASE_URL="mysql://root:@127.0.0.1:3306/npms"
 
 git clone https://github.com/netsture/npms.git
 
